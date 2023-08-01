@@ -1,0 +1,8 @@
+Анхаарах ёстой зарим чухал directories-лавлахууд нь::
+/bin : binary or executable programs (nice place for keeping persistent scripts)
+/etc : system configuration files (an awesome place to obtain credentials)
+/home : home directory (the default current directory when you open up the terminal)
+/opt : optional or third-party software
+/tmp : temporary space, usually cleared on reboot (a great place to store enumeration scripts)
+/usr : User related programs
+/var : log files (the perfect place to frustrate a forensic analyst)

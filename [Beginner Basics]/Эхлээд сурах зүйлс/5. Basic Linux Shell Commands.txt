@@ -1,0 +1,5 @@
+Энэ нийтлэлд бид дараах command-ыг үзэх болно: whoami, pwd, ls, cd, touch, cat, nano, operators, mv and cp, mkdir, rm and rmdir, stat, echo, grep, the ‘help’ flag and man pages.
+
+Би Кали-г санал болгож байгаа хэдий ч танд өөрийн сонгосон ямар ч Linux distro хэрэгтэй болно. Хэрэв та хэрхэн суулгахаа мэдэхгүй байгаа бол үүнийг website-с сурж болно:
+1. https://www.freecodecamp.org/news/how-to-install-kali-linux/
+2. https://www.youtube.com/watch?v=zuFHa6A_m9g
